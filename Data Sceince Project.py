@@ -7,7 +7,6 @@ import seaborn as sns
 from matplotlib.animation import FuncAnimation
 import os
 
-# Set Seaborn theme for professional look
 sns.set_theme(style='darkgrid')
 sns.set_palette('viridis')
 plt.rcParams['font.family'] = 'Arial'
